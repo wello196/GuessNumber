@@ -4,6 +4,18 @@ A fun, retro-style browser game where the player tries to guess a hidden random 
 
 ---
 
+## 🚀 Live Demo
+
+Launch the game in your browser and test your luck:
+*   **Play Now:** [https://guess-number-one-rho.vercel.app/]
+
+### 🎮 Game Rules
+1.  **Guess:** Enter a number between 1 and 20 and check your result.
+2.  **Score:** You start with 20 points. Each wrong guess costs you **1 point**.
+3.  **Highscore:** Beat your previous best score before running out of points!
+
+---
+
 ## 🛠️ Tech Stack
 
 *   **Structure:** HTML5
@@ -30,3 +42,4 @@ A fun, retro-style browser game where the player tries to guess a hidden random 
 ├── index.html       # The HTML framework and UI elements
 ├── style.css        # The retro CSS layout design definitions
 └── script.js        # The game's interactive state engine logic
+```
